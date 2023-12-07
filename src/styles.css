@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'Marianne';
+    src:url('font/Marianne-Regular.woff') format('woff2'),
+        url('font/Marianne-Bold.woff') format('woff'),
+}
